@@ -20,8 +20,11 @@ A little collection of poorly implemented numerical sorting algorythms, with no 
 
     Elimiates every element out of order.
 
-* ...
+* Hitler Sort
+
+    Eliminates every "non superior" Element.
 
 ## Upcoming
 
-* Hitler sort
+Nothing here you
+might suggest something

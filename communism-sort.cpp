@@ -1,0 +1,14 @@
+/*
+Adds up the values an assigns each element, an equal share
+*/
+int* communsimSort(int * in, int length){
+    int summ;
+    int share;
+    for(int i = 0; i < length; i++){
+        summ += in[i];
+    }
+    share = summ / lenght;
+    for(int i = 0; i < length; i++){
+        in[i] = share;
+    }
+}

@@ -1,2 +1,22 @@
-# stupid-sorts
-A little collection of numerical sorting algorythms, with no realworld usecase
+# Stupid Sorts
+
+A little collection of poorly implemented numerical sorting algorythms, with no realworld usecase.
+
+## Table of Contents
+
+* Faith Sort.
+
+    Faith Sort, only Checks if the array is sorted and relys on your faith to accutally do so
+* Communsim Sort
+
+    Adds up the values an assigns each element, an equal share
+
+* ...
+
+## Upcoming
+
+* [x] Faith sort
+* [ ] Stalin sort
+* [ ] Hitler sort
+* [ ] Anarcho sort
+* [x] Communism sort

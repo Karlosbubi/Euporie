@@ -7,7 +7,7 @@ int* faithSort(int* in, int lenght){
 
     while(!sorted){
         sorted = true;
-        for(int i = 1, i < length, i++){
+        for(int i = 1; i < lenght; i++){
             if(in[i] > in[i-1]){
                 sorted = false;
                 break;

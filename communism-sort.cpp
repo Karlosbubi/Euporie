@@ -7,7 +7,7 @@ int* communsimSort(int * in, int length){
     for(int i = 0; i < length; i++){
         summ += in[i];
     }
-    share = summ / lenght;
+    share = summ / length;
     for(int i = 0; i < length; i++){
         in[i] = share;
     }

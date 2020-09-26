@@ -24,6 +24,11 @@ A little collection of poorly implemented numerical sorting algorythms, with no 
 
     Eliminates every "non superior" Element.
 
+* 1984 Sort
+
+    Dose nothing, if Big Brother says the list is sorted it IS sorted,
+    no matter the acutal arangement.
+
 ## Upcoming
 
 Nothing here you

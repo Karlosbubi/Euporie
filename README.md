@@ -16,9 +16,12 @@ A little collection of poorly implemented numerical sorting algorythms, with no 
 
     Dosen't do anything, the elements may arrange themselfs however they please.
 
+* Stalin Sort
+
+    Elimiates every element out of order.
+
 * ...
 
 ## Upcoming
 
-* Stalin sort
 * Hitler sort

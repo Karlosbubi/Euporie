@@ -1,8 +1,9 @@
 /* 
-Faith Sort, only Checks if the array is sorted and relys on your faith to accutally do so
+Faith Sort, only Checks if the array is sorted 
+and relys on your faith to accutally do so.
 */
 
-int* faithSort(int* in, int lenght){
+void faithSort(int* in, int lenght){
     bool sorted  = false;
 
     while(!sorted){
@@ -14,5 +15,4 @@ int* faithSort(int* in, int lenght){
             }
         }
     }
-    return in;
 }

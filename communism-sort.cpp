@@ -1,7 +1,8 @@
 /*
-Adds up the values an assigns each element, an equal share
+Adds up the values an assigns each element, an equal share.
 */
-int* communsimSort(int * in, int length){
+
+void communsimSort(int * in, int length){
     int summ;
     int share;
     for(int i = 0; i < length; i++){

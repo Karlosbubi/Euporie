@@ -26,7 +26,7 @@ A little collection of poorly implemented numerical sorting algorythms, with no 
 
 * 1984 Sort
 
-    Dose nothing, if Big Brother says the list is sorted it IS sorted,
+    Dose nothing, if Big Brother says the list is sorted it **IS** sorted,
     no matter the acutal arangement.
 
 ## Upcoming

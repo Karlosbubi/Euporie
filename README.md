@@ -18,8 +18,5 @@ A little collection of poorly implemented numerical sorting algorythms, with no 
 
 ## Upcoming
 
-* [x] Faith sort
-* [ ] Stalin sort
-* [ ] Hitler sort
-* [x] Anarcho sort
-* [x] Communism sort
+* Stalin sort
+* Hitler sort

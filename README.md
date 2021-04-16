@@ -1,4 +1,6 @@
-# Stupid Sorts
+# [Euporie](https://solarsystem.nasa.gov/moons/jupiter-moons/euporie/in-depth/ "NASA")
+Stupid Sorts
+____________
 
 A little collection of poorly implemented numerical sorting algorythms, with no realworld usecase.
 

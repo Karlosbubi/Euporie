@@ -24,7 +24,7 @@ A little collection of poorly implemented numerical sorting algorythms, with no 
 
 * Hitler Sort
 
-    Eliminates every "non superior" Element, then Bubble sorts.
+    Eliminates every "non superior" Element, then Bubble sorts. !! To be changed !!
 
 * 1984 Sort
 

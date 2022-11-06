@@ -22,10 +22,6 @@ A little collection of poorly implemented numerical sorting algorythms, with no 
 
     Elimiates every element out of order.
 
-* Hitler Sort
-
-    Eliminates every "non superior" Element, then Bubble sorts. !! To be changed !!
-
 * 1984 Sort
 
     Dose nothing, if Big Brother says the list is sorted it **IS** sorted,
